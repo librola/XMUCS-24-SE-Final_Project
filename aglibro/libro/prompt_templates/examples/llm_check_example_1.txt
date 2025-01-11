@@ -1,0 +1,2 @@
+According to the bug description, this problem comes from the zero division error when the total number of samples is 0. The execution result of the test program also has a similar zero division error, so it can be considered that the test file reproduces the issue.
+Yes
