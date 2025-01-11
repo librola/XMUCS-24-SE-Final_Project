@@ -1,0 +1,10 @@
+老师和学长如果需要运行本项目的话，可以使用我的 API。
+
+镜像站 URL：https://a1.aizex.me/v1
+Key: sk-k61YCSW5WTH31FrB6jN1lUzZOjmcHxCFXGS01FvpSJwapsve
+
+可以使用 gpt-4o-mini 生成模型和 text-embedding-3-small 嵌入模型。
+
+大概有 $1 的额度，应该可以运行几个任务了。
+我们参考的数据集在这里 https://huggingface.co/datasets/princeton-nlp/SWE-bench_Lite/
+可以 test split 中挑几个 instance_id 运行。
